@@ -10,3 +10,5 @@
 
 
 [PuTTY](https://putty.org/index.html) is a free open source terminal emulator that allows us to connect to embedded devices via USB-UART adapter
+
+Website with popular JTAG pinouts - [here](http://www.jtagtest.com/pinouts/)
